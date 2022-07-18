@@ -4,8 +4,8 @@
 <h4>Full Stack Developer graduated in Industrial Engineering. Experience working with JavaScript, NodeJS, React, Sequelize, SQL among other technologies in the sector. Develop an E-commerce that exceeded 500 successful sales in the first three months. I worked at Toyota Argentina for more than 7 years, which strengthened my analytical thinking, effective problem solving, teamwork, communication and continuous improvement.</h4>
 <hr>
 <h3>Technical skills:</h3>
-<p align="center" style="display: grid;" >
-  <p><img src="./img/skills/js.png" width="30" height="30" align="center"/><br><span>JavaScript</span></p>
+<p align="center">
+  <p align="center"> <img src="./img/skills/js.png" width="30" height="30" align="center"/><br><span>JavaScript</span></p>
   <img src="/img/skills/css.png" width="30" height="30" align="center"/>
   <img src="/img/skills/html-5.png" width="30" height="30" align="center"/>
   <img src="/img/skills/nodejs.png" width="30" height="30" align="center"/>
