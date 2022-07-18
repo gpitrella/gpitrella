@@ -10,9 +10,9 @@
 
 <center>
   <table>
-    <tr>
-      <td><a href="https://sourcerer.io/chdemko"><img width="120" alt="chdemko" src="https://user-images.githubusercontent.com/20287615/42243607-c7f6c40c-7ec6-11e8-9f8e-d4450d1d92d1.png"></a></td>
-      <td><a href="https://sourcerer.io/chendaniely"><img width="120" alt="chendaniely" src="https://user-images.githubusercontent.com/20287615/42243623-d1bd479a-7ec6-11e8-983c-00945c926dc6.png"></a></td>
+    <tr border="none">
+      <td><img width="120" alt="chdemko" src="./img/skills/js.png"><p>JavaScript</p></td>
+      <td><img width="120" alt="chendaniely" src="/img/skills/css.png"><p>CSS</p></a></td>
       <td><a href="https://sourcerer.io/lauragift21"><img width="120" alt="lauragift21" src="https://user-images.githubusercontent.com/20287615/42243624-d1d24cd0-7ec6-11e8-84c0-3a1aad54a774.png"></a></td>
       <td><a href="https://sourcerer.io/maracuja-juice"><img width="120" alt="maracuja-juice" src="https://user-images.githubusercontent.com/20287615/42243626-d1eb19c2-7ec6-11e8-8e94-fa02d8f11894.png"></a></td>
     </tr>
