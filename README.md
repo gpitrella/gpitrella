@@ -11,10 +11,10 @@
 <center>
   <table>
     <tr border="0px solid">
-      <td><img width="40" alt="javascript" src="./img/skills/js.png"><p font-size="14" align="center">JavaScript</p></td>
-      <td><img width="40" alt="css" src="/img/skills/css.png"><p font-size="14" align="center">CSS</p></a></td>
-      <td><img width="40" alt="chdemko" src="./img/skills/js.png"><p font-size="14" align="center">JavaScript</p></td>
-      <td><img width="40" alt="chendaniely" src="/img/skills/css.png"><p font-size="14" align="center">CSS</p></a></td>
+      <td border="0px solid"><img width="40" alt="javascript" src="./img/skills/js.png" align="center"><p font-size="14px" align="center">JavaScript</p></td>
+      <td border="0px solid"><img width="40" alt="css" src="./img/skills/css.png" align="center"><p font-size="14px" align="center">CSS</p></a></td>
+      <td border="0px solid"><img width="40" alt="html-5" src="./img/skills/html-5.png" align="center"><p font-size="14px" align="center">JavaScript</p></td>
+      <td border="0px solid"><img width="40" alt="nodejs" src="./img/skills/nodejs.png" align="center"><p font-size="14px" align="center">CSS</p></a></td>
     </tr>
     <tr>
       <td><a href="https://sourcerer.io/marisbotero"><img width="120" alt="marisbotero" src="https://user-images.githubusercontent.com/20287615/42243627-d203bb58-7ec6-11e8-945e-49b878f07436.png"></a></td>
