@@ -8,6 +8,7 @@
 <hr>
 <h3>Technical skills:</h3>
 <div align="center" display="flex">
+| [<img src="./img/skills/js.png" width="100px;"/><br /><sub><b>JavaScript</b></sub>](http://juandavidherrera.com/en)<br />        | [<img src="https://avatars0.githubusercontent.com/u/464978?v=3" width="100px;"/><br /><sub><b>Alejandro Ñáñez</b></sub>](http://co.linkedin.com/in/alejandronanez/)<br /> | [<img src="https://avatars0.githubusercontent.com/u/8260962?v=3" width="100px;"/><br /><sub><b>Daniel Correa</b></sub>](https://github.com/danielcb29)<br />          | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub><b>Melina Mejía</b></sub>](https://github.com/MelinaMejia95)<br /> | [<img src="https://avatars3.githubusercontent.com/u/10712317?v=3" width="100px;"/><br /><sub><b>Felipe Jaramillo </b></sub>](https://github.com/p1p3)<br />    | [<img src="https://avatars1.githubusercontent.com/u/7959823?v=3" width="100px;"/><br /><sub><b>Diego Coy</b></sub>](https://diegocoy.com)<br />                               | [<img src="https://avatars2.githubusercontent.com/u/26748227?s=400&v=4" width="100px;"/><br /><sub><b>Laura Ciro</b></sub>](https://github.com/ltciro)<br />  |
   <span align="center"><img src="./img/skills/js.png" width="30" height="30" align="center"/><br><span>JavaScript</span></span>
   <span align="center"><img src="/img/skills/css.png" width="30" height="30" align="center"/><br><span>CSS</span></span>
   <img src="/img/skills/html-5.png" width="30" height="30" align="center"/>
