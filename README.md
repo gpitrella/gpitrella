@@ -10,11 +10,11 @@
 
 <center>
   <table>
-    <tr border="none">
-      <td><img width="120" alt="chdemko" src="./img/skills/js.png"><p>JavaScript</p></td>
-      <td><img width="120" alt="chendaniely" src="/img/skills/css.png"><p>CSS</p></a></td>
-      <td><a href="https://sourcerer.io/lauragift21"><img width="120" alt="lauragift21" src="https://user-images.githubusercontent.com/20287615/42243624-d1d24cd0-7ec6-11e8-84c0-3a1aad54a774.png"></a></td>
-      <td><a href="https://sourcerer.io/maracuja-juice"><img width="120" alt="maracuja-juice" src="https://user-images.githubusercontent.com/20287615/42243626-d1eb19c2-7ec6-11e8-8e94-fa02d8f11894.png"></a></td>
+    <tr border="0px solid">
+      <td><img width="40" alt="javascript" src="./img/skills/js.png"><p font-size="14" align="center">JavaScript</p></td>
+      <td><img width="40" alt="css" src="/img/skills/css.png"><p font-size="14" align="center">CSS</p></a></td>
+      <td><img width="40" alt="chdemko" src="./img/skills/js.png"><p font-size="14" align="center">JavaScript</p></td>
+      <td><img width="40" alt="chendaniely" src="/img/skills/css.png"><p font-size="14" align="center">CSS</p></a></td>
     </tr>
     <tr>
       <td><a href="https://sourcerer.io/marisbotero"><img width="120" alt="marisbotero" src="https://user-images.githubusercontent.com/20287615/42243627-d203bb58-7ec6-11e8-945e-49b878f07436.png"></a></td>
