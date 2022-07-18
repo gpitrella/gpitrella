@@ -2,17 +2,12 @@
     
 
 <img src="./DevelopingSolutions.gif" alt="DevelopingSolutions" />
-<style type="text/css">
-    .skills {
-        diplay: flex;
-    }
-</style>
 <h2> Hi, I'm Gabriel 👋 </h2>
 <hr>
 <h4>Full Stack Developer graduated in Industrial Engineering. Experience working with JavaScript, NodeJS, React, Sequelize, SQL among other technologies in the sector. Develop an E-commerce that exceeded 500 successful sales in the first three months. I worked at Toyota Argentina for more than 7 years, which strengthened my analytical thinking, effective problem solving, teamwork, communication and continuous improvement.</h4>
 <hr>
 <h3>Technical skills:</h3>
-<div align="center" class="skills">
+<div align="center" display="flex">
   <span align="center"><img src="./img/skills/js.png" width="30" height="30" align="center"/><br><span>JavaScript</span></span>
   <span align="center"><img src="/img/skills/css.png" width="30" height="30" align="center"/><br><span>CSS</span></span>
   <img src="/img/skills/html-5.png" width="30" height="30" align="center"/>
