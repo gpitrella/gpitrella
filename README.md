@@ -7,9 +7,9 @@
 <h4>Full Stack Developer graduated in Industrial Engineering. Experience working with JavaScript, NodeJS, React, Sequelize, SQL among other technologies in the sector. Develop an E-commerce that exceeded 500 successful sales in the first three months. I worked at Toyota Argentina for more than 7 years, which strengthened my analytical thinking, effective problem solving, teamwork, communication and continuous improvement.</h4>
 <hr>
 <h3>Technical skills:</h3>
-<p align="center" class="skills">
-  <span align="center"><p><img src="./img/skills/js.png" width="30" height="30" align="center"/></p><span>JavaScript</span></span>
-  <span align="center"><p><img src="/img/skills/css.png" width="30" height="30" align="center"/></p><span>CSS</span></span>
+<div align="center" class="d-flex flex-wrap">
+  <span align="center"><img src="./img/skills/js.png" width="30" height="30" align="center"/><span>JavaScript</span></span>
+  <span align="center"><img src="/img/skills/css.png" width="30" height="30" align="center"/><span>CSS</span></span>
   <img src="/img/skills/html-5.png" width="30" height="30" align="center"/>
   <img src="/img/skills/nodejs.png" width="30" height="30" align="center"/>
   <img src="/img/skills/structure.png" width="30" height="30" align="center"/>
@@ -26,7 +26,7 @@
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/jasmine.png" width="30" height="30" align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/webpack.png" width="30" height="30" align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/arduino.png" width="30" height="30" align="center"/> -->
-</p>  
+</div>  
 
 
 <!--
