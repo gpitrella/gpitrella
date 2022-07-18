@@ -5,7 +5,7 @@
 <hr>
 <h3>Technical skills:</h3>
 <p align="center" style="display: grid;" >
-  <img src="./img/skills/js.png" width="30" height="30" align="center"/><span>JavaScript</span>
+  <img src="./img/skills/js.png" width="30" height="30" align="center"/><br><span>JavaScript</span>
   <img src="/img/skills/css.png" width="30" height="30" align="center"/>
   <img src="/img/skills/html-5.png" width="30" height="30" align="center"/>
   <img src="/img/skills/nodejs.png" width="30" height="30" align="center"/>
