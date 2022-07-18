@@ -1,14 +1,4 @@
-<html>
-<head>
-    <style type="text/css">
-        .skills {
-            display="flex"; 
-            justify-content="space-evenly"; 
-            flex-direction="row";
-        }
-    </style>
-</head>
-<body>
+
     
 
 <img src="./DevelopingSolutions.gif" alt="DevelopingSolutions" />
@@ -18,8 +8,8 @@
 <hr>
 <h3>Technical skills:</h3>
 <div align="center" class="skills">
-  <p align="center"><img src="./img/skills/js.png" width="30" height="30" align="center"/><br><span>JavaScript</span></p>
-  <p align="center"><img src="/img/skills/css.png" width="30" height="30" align="center"/><br><span>CSS</span></p>
+  <span align="center"><p><img src="./img/skills/js.png" width="30" height="30" align="center"/></p><span>JavaScript</span></span>
+  <span align="center"><p><img src="/img/skills/css.png" width="30" height="30" align="center"/></p><span>CSS</span></span>
   <img src="/img/skills/html-5.png" width="30" height="30" align="center"/>
   <img src="/img/skills/nodejs.png" width="30" height="30" align="center"/>
   <img src="/img/skills/structure.png" width="30" height="30" align="center"/>
@@ -53,5 +43,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</body>
-</html>
