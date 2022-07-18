@@ -8,8 +8,8 @@
 <hr>
 <h3>Technical skills:</h3>
 <div align="center" class="d-flex flex-wrap">
-  <span align="center"><img src="./img/skills/js.png" width="30" height="30" align="center"/><span>JavaScript</span></span>
-  <span align="center"><img src="/img/skills/css.png" width="30" height="30" align="center"/><span>CSS</span></span>
+  <span align="center"><img src="./img/skills/js.png" width="30" height="30" align="center"/><br><span>JavaScript</span></span>
+  <span align="center"><img src="/img/skills/css.png" width="30" height="30" align="center"/><br><span>CSS</span></span>
   <img src="/img/skills/html-5.png" width="30" height="30" align="center"/>
   <img src="/img/skills/nodejs.png" width="30" height="30" align="center"/>
   <img src="/img/skills/structure.png" width="30" height="30" align="center"/>
