@@ -36,7 +36,7 @@
     </ul>
 </div> 
 <hr>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact Me:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/gabrielpitrella/"><img align-self="center" src="./img/contact/linkedin.png" alt="https://www.linkedin.com/in/gabrielpitrella/" width="60px" /></a>
     <a href="mailto:gabrielpitrella@gmail.com" ><img src="./img/contact/email.png" alt="gabrielpitrella@gmail.com" width="60px"></a>
