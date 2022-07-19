@@ -42,6 +42,12 @@
     <a href="mailto:gabrielpitrella@gmail.com" ><img src="./img/contact/email.png" alt="gabrielpitrella@gmail.com" width="60px"></a>
 </p>
 <hr>
+<h3 align="left">My proyects: </h3>
+<p>
+  <a><img src="https://user-images.githubusercontent.com/71048358/179837271-d28262ab-c8b3-4e26-8069-f9dca5595614.jpg"></a>
+  <a><img src="https://user-images.githubusercontent.com/71048358/179837382-f2bcc181-6afb-4397-8c3f-95f805693875.jpg"></a>
+  <a><img src="https://user-images.githubusercontent.com/71048358/179837428-f00c82e6-05c7-4f62-b14d-349be4ac8513.jpg"></a>
+</p>
 <h3 align="left">Summary GitHub:</h3>
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpitrella&show_icons=true&theme=dark&locale=en&layout=compact" alt="gpitrella" /><span margin="10px"></span>
