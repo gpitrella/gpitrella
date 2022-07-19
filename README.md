@@ -19,7 +19,7 @@
   <img src="/img/skills/slack.png" width="50" height="50" align="center"/>
   <img src="/img/skills/bootstrap.png" width="50" height="50" align="center"/>
   <img src="/img/skills/expressjs.svg" width="50" height="50" align="center"/>
-  <img src="/img/skills/git.svg" width="50" height="50" align="center"/>
+  <img src="/img/skills/git.png" width="50" height="50" align="center"/>
   <img src="/img/skills/material-ui.svg" width="50" height="50" align="center"/>
 </div> 
 <p></p>
@@ -35,6 +35,7 @@
 </div> 
 <hr>
 <div align="center">
+  <h4>🛵 Summary GitHub:</h4>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpitrella&layout=compact&theme=graywhite)](https://github.com/JehhS/github-readme-stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=gpitrella&show_icons=true&theme=radical&hide=issues,prs"/>
 </div>
