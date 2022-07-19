@@ -36,8 +36,9 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/gabrielpitrella/"><img src="./img/contact/linkedin.png" alt="https://www.linkedin.com/in/gabrielpitrella/" width="60" /></a>
-    <a href="mailto:gabrielpitrella@gmail.com" ><img src="./img/contact/gmail.png" alt="gabrielpitrella@gmail.com" width="60"></a>
+    <a href="https://www.linkedin.com/in/gabrielpitrella/"><img align-self="center" src="./img/contact/linkedin.png" alt="https://www.linkedin.com/in/gabrielpitrella/" width="55px" /></a>
+    <span> - </span>
+    <a href="mailto:gabrielpitrella@gmail.com" ><img src="./img/contact/gmail.png" alt="gabrielpitrella@gmail.com" width="60px"></a>
 </p>
 <hr>
 <h3 align="left">Summary GitHub:</h3>
