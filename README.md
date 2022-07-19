@@ -35,8 +35,8 @@
 </div> 
 <hr>
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpitrella&layout=compact&theme=graywhite)](https://github.com/JehhS/github-readme-stats)
-  <img src="https://github-readme-stats.vercel.app/api?username=gpitrella&&show_icons=true&title_color=1C913E&icon_color=35AB24&text_color=daf7dc&bg_color=EDEDED" width="550" height="550" align="center"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpitrella&layout=compact&theme=graywhite)](https://github.com/JehhS/github-readme-stats" width="500" height="500" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gpitrella&&show_icons=true&title_color=074A0DE&icon_color=031F05&text_color=021402&bg_color=EDEDED" width="500" height="500" align="center"/>
 </div>
 
 
