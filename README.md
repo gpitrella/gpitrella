@@ -8,14 +8,14 @@
 <hr>
 <h3>Technical skills:</h3>
 <div align="center">
-  <img src="./img/skills/js.png" width="50" height="50" align="center"/><span>- -</span>
-  <img src="/img/skills/css.png" width="50" height="50" align="center"/><span>- -</span>
-  <img src="/img/skills/html-5.png" width="50" height="50" align="center"/><span>|</span>
-  <img src="/img/skills/nodejs.png" width="50" height="50" align="center"/><span>|</span>
-  <img src="/img/skills/react.png" width="50" height="50" align="center"/><span>|</span>
-  <img src="/img/skills/typescript.png" width="50" height="50" align="center"/><span>|</span>
-  <img src="/img/skills/postgre.png" width="50" height="50" align="center"/><span>|</span>
-  <img src="/img/skills/react.png" width="50" height="50" align="center"/><span>|</span>
+  <img src="./img/skills/js.png" width="50" height="50" align="center"/><span> - </span>
+  <img src="/img/skills/css.png" width="50" height="50" align="center"/><span> - </span>
+  <img src="/img/skills/html-5.png" width="50" height="50" align="center"/><span> - </span>
+  <img src="/img/skills/nodejs.png" width="50" height="50" align="center"/><span> - </span>
+  <img src="/img/skills/react.png" width="50" height="50" align="center"/><span> - </span>
+  <img src="/img/skills/typescript.png" width="50" height="50" align="center"/><span> - </span>
+  <img src="/img/skills/postgre.png" width="50" height="50" align="center"/><span> - </span>
+  <img src="/img/skills/react.png" width="50" height="50" align="center"/><span> - </span>
   <img src="/img/skills/slack.png" width="50" height="50" align="center"/>
 </div> 
 <div align="center">
