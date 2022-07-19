@@ -17,23 +17,28 @@
   <img src="/img/skills/typescript.png" width="50" height="50" align="center"/>
   <img src="/img/skills/postgre.png" width="50" height="50" align="center"/>
   <img src="/img/skills/slack.png" width="50" height="50" align="center"/>
-  <img src="/img/skills/mysql.svg" width="50" height="50" align="center"/>
   <img src="/img/skills/bootstrap.png" width="50" height="50" align="center"/>
   <img src="/img/skills/expressjs.svg" width="50" height="50" align="center"/>
   <img src="/img/skills/git.svg" width="50" height="50" align="center"/>
   <img src="/img/skills/material-ui.svg" width="50" height="50" align="center"/>
 </div> 
 <p></p>
-<div align="center">
-<h4>🧠 Habilidades:</h4>
-<ul>
-  <li>💻 JavaScript, TypeScript, React, Redux, </li>
-  <li>⚙️ Node.JS, Express.Js</li>
-  <li>👁️ Material-UI, CSS, Sass, Bootstrap, Less</li>
-  <li>💽 PostgreSQL </li>
-  <li>💬 Git, SCRUM, Slack, Trello</li>
-</ul>
+<div>
+    <h4>🧠 Summary:</h4>
+    <ul>
+        <li>💻 JavaScript, TypeScript, React, Redux</li>
+        <li>⚙️ Node.JS, Express.Js</li>
+        <li>👁️ Material-UI, CSS, Sass, Bootstrap, Less</li>
+        <li>💽 PostgreSQL </li>
+        <li>💬 Git, SCRUM, Slack, Trello</li>
+    </ul>
 </div> 
+<hr>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gpitrella&&show_icons=true&title_color=1C913E&icon_color=35AB24&text_color=daf7dc&bg_color=EDEDED" width="50" height="50" align="center"/>
+</div>
+
+
 
 
 <!--
