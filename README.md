@@ -23,21 +23,16 @@
   <img src="/img/skills/git.svg" width="50" height="50" align="center"/>
   <img src="/img/skills/material-ui.svg" width="50" height="50" align="center"/>
 </div> 
+<p></p>
 <div align="center">
-  <span>JavaScript</span><span> - </span>
-  <span>CSS</span><span> - </span>
-  <span>HTML</span><span> - </span>
-  <span>NodeJs</span><span> - </span>
-  <span>React</span><span> - </span>
-  <span>Redux</span><span> - </span>
-  <span>TypeScript</span><span> - </span>
-  <span>Postgre</span><span> - </span>
-  <span>Slack</span><span> - </span>
-  <span>MySQL</span><span> - </span>
-  <span>Bootstrap</span><span> - </span>
-  <span>Express</span><span> - </span>
-  <span>Git</span><span> - </span>
-  <span>Material UI</span><span> - </span>
+<h4>🧠 Habilidades:</h4>
+<ul>
+  <li>💻 JavaScript, TypeScript, React, Redux, </li>
+  <li>⚙️ Node.JS, Express.Js</li>
+  <li>👁️ Material-UI, CSS, Sass, Bootstrap, Less</li>
+  <li>💽 PostgreSQL </li>
+  <li>💬 Git, SCRUM, Slack, Trello</li>
+</ul>
 </div> 
 
 
