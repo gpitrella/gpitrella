@@ -21,15 +21,17 @@
   <img src="/img/skills/express.png" width="50" height="50" align="center"/>
   <img src="/img/skills/git.png" width="50" height="50" align="center"/>
   <img src="/img/skills/material-ui.svg" width="50" height="50" align="center"/>
+  <img src="/img/skills/postman.svg" width="50" height="50" align="center"/>
+  <img src="/img/skills/babel.png" width="50" height="50" align="center"/>
 </div> 
 <p></p>
 <div>
     <h4>🧠 Summary:</h4>
     <ul>
-        <li>💻 JavaScript, TypeScript, React, Redux</li>
+        <li>💻 JavaScript, TypeScript, React, Redux, Babel</li>
         <li>⚙️ Node.JS, Express.Js</li>
         <li>👁️ Material-UI, CSS, Sass, Bootstrap, Less</li>
-        <li>💽 PostgreSQL </li>
+        <li>💽 PostgreSQL, Postman</li>
         <li>💬 Git, SCRUM, Slack, Trello</li>
     </ul>
 </div> 
@@ -37,25 +39,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/gabrielpitrella/"><img align-self="center" src="./img/contact/linkedin.png" alt="https://www.linkedin.com/in/gabrielpitrella/" width="55px" /></a>
-    <span color="D1D1D1"> - </span>
+    <span font-size="30px"></span>
     <a href="mailto:gabrielpitrella@gmail.com" ><img src="./img/contact/gmail.png" alt="gabrielpitrella@gmail.com" width="60px"></a>
 </p>
 <hr>
 <h3 align="left">Summary GitHub:</h3>
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpitrella&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryancpineda" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpitrella&layout=compact&theme=dark)](https://github.com/JehhS/github-readme-stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gpitrella&show_icons=true&theme=dark&hide=issues"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpitrella&theme=dark" alt="gpitrella" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpitrella&show_icons=true&theme=dark&locale=en&layout=compact" alt="gpitrella" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gpitrella&show_icons=true&theme=dark&hide=issues"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpitrella&theme=dark" alt="gpitrella" />
 </div>
-
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryancpineda&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryancpineda" /></p>
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryancpineda&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="bryancpineda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpitrella&theme=dark" alt="gpitrella" /></p> -->
-
-</br>
-<h4>Visitor's :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{gpitrella}/count.svg" alt="gpitrella :: Visitor's Count" /></p>
