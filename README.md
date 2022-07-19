@@ -34,14 +34,12 @@
     </ul>
 </div> 
 <hr>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpitrella&layout=compact&theme=graywhite)](https://github.com/JehhS/github-readme-stats" width="500" height="500" align="center"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gpitrella&&show_icons=true&title_color=074A0DE&icon_color=031F05&text_color=021402&bg_color=EDEDED" width="500" height="500" align="center"/>
-</div>
+<p align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpitrella&layout=compact&theme=graywhite)](https://github.com/JehhS/github-readme-stats)
+    </br>
+    ![Gabriel Pitrella GitHub stats](https://github-readme-stats.vercel.app/api?username=gpitrella&show_icons=true&theme=radical&hide=issues,prs)    
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinJaime99&layout=compact&theme=graywhite)](https://github.com/JehhS/github-readme-stats)
-</br>
-![Agustin Diego Jaime GitHub stats](https://github-readme-stats.vercel.app/api?username=agustinjaime99&show_icons=true&theme=radical&hide=issues,prs)
 
 
 
