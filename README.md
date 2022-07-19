@@ -7,26 +7,22 @@
 <h4>Full Stack Developer graduated in Industrial Engineering. Experience working with JavaScript, NodeJS, React, Sequelize, SQL among other technologies in the sector. Develop an E-commerce that exceeded 500 successful sales in the first three months. I worked at Toyota Argentina for more than 7 years, which strengthened my analytical thinking, effective problem solving, teamwork, communication and continuous improvement.</h4>
 <hr>
 <h3>Technical skills:</h3>
-<div align="center" display="flex">
-  <img src="./img/skills/js.png" width="50" height="50" align="center"/>
-  <img src="/img/skills/css.png" width="50" height="50" align="center"/>
-  <img src="/img/skills/html-5.png" width="50" height="50" align="center"/>
-  <img src="/img/skills/nodejs.png" width="50" height="50" align="center"/>
-  <img src="/img/skills/structure.png" width="50" height="50" align="center"/>
-  <img src="/img/skills/typescript.png" width="50" height="50" align="center"/>
-  <img src="/img/skills/postgre.png" width="50" height="50" align="center"/>
-  <img src="/img/skills/react.png" width="50" height="50" align="center"/>
+<div align="center">
+  <img src="./img/skills/js.png" width="50" height="50" align="center"/><span>|</span>
+  <img src="/img/skills/css.png" width="50" height="50" align="center"/><span>|</span>
+  <img src="/img/skills/html-5.png" width="50" height="50" align="center"/><span>|</span>
+  <img src="/img/skills/nodejs.png" width="50" height="50" align="center"/><span>|</span>
+  <img src="/img/skills/react.png" width="50" height="50" align="center"/><span>|</span>
+  <img src="/img/skills/typescript.png" width="50" height="50" align="center"/><span>|</span>
+  <img src="/img/skills/postgre.png" width="50" height="50" align="center"/><span>|</span>
+  <img src="/img/skills/react.png" width="50" height="50" align="center"/><span>|</span>
   <img src="/img/skills/slack.png" width="50" height="50" align="center"/>
-  <!-- <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/postgresql.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/mysql.svg" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/sqlite.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/sequelize.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/mocha.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/chai.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/jasmine.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/webpack.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/arduino.png" width="30" height="30" align="center"/> -->
-</div>  
+</div> 
+<div align="center">
+  <span>JavaScript</span><span>|</span>
+  <span>CSS</span><span>|</span>
+  <span>HTML</span>
+</div> 
 
 
 <!--
