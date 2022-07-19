@@ -43,8 +43,7 @@
 <h3 align="left">Summary GitHub:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpitrella&layout=compact&theme=graywhite)](https://github.com/JehhS/github-readme-stats"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpitrella&show_icons=true&theme=dark&locale=en&layout=compact" alt="gpitrella" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gpitrella&show_icons=true&theme=radical&hide=issues,prs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gpitrella&show_icons=true&theme=dark&hide=issues"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpitrella&theme=dark" alt="gpitrella" />
 </div>
 
