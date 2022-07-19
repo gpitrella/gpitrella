@@ -36,13 +36,14 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/gabrielpitrella/" target="_blank"><img align="center" src="./img/linkedin.png" alt="https://www.linkedin.com/in/gabrielpitrella/"/></a>
-    <a href="mailto:gabrielpitrella@gmail.com" ><img src="./img/contact/gmail.png">
+    <a href="https://www.linkedin.com/in/gabrielpitrella/" target="_blank"><img align="center" src="./img/contact/linkedin.png" alt="https://www.linkedin.com/in/gabrielpitrella/" height="30" width="40" /></a>
+    <a href="mailto:gabrielpitrella@gmail.com" ><img width="5%" src="./img/contact/gmail.png" height="30" width="40">
 </p>
 <hr>
 <h3 align="left">Summary GitHub:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpitrella&layout=compact&theme=graywhite)](https://github.com/JehhS/github-readme-stats"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpitrella&show_icons=true&theme=dark&locale=en&layout=compact" alt="gpitrella" />
   <img src="https://github-readme-stats.vercel.app/api?username=gpitrella&show_icons=true&theme=radical&hide=issues,prs"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpitrella&theme=dark" alt="gpitrella" />
 </div>
