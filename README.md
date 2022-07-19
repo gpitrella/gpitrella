@@ -34,11 +34,11 @@
     </ul>
 </div> 
 <hr>
-<p align="center">
+
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpitrella&layout=compact&theme=graywhite)](https://github.com/JehhS/github-readme-stats)
     </br>
     ![Gabriel Pitrella GitHub stats](https://github-readme-stats.vercel.app/api?username=gpitrella&show_icons=true&theme=radical&hide=issues,prs)    
-</p>
+
 
 
 
