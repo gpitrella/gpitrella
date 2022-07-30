@@ -34,6 +34,7 @@
         <li>💽 PostgreSQL, Postman</li>
         <li>💬 Git, GitHub, SCRUM, Slack, Trello</li>
         <li>🪶 Deploy Vercel, Heroku</li>
+        <li>📌 WordPress, Woocommerce</li>
     </ul>
 </div> 
 <hr>
