@@ -50,6 +50,8 @@
   <a href="https://www.laquastore.com.ar"><img src="https://user-images.githubusercontent.com/71048358/179837271-d28262ab-c8b3-4e26-8069-f9dca5595614.jpg" width="270px"></a>
   <a href="https://techmarketfront.vercel.app/"><img src="https://user-images.githubusercontent.com/71048358/179837382-f2bcc181-6afb-4397-8c3f-95f805693875.jpg" width="270px"></a>
   <a href="https://deploy-videogame.vercel.app/"><img src="https://user-images.githubusercontent.com/71048358/179837428-f00c82e6-05c7-4f62-b14d-349be4ac8513.jpg" width="270px"></a>
+      <a href="https://porfolio-gpitrella.vercel.app/"><img src="https://user-images.githubusercontent.com/71048358/181997180-eb65235e-0de1-4f02-beee-22e7c8800be3.jpg" width="270px"></a>
+    
 </p>
 <hr>
 <h3 align="left">Summary GitHub:</h3>
