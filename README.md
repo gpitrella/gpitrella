@@ -46,6 +46,15 @@
 </p>
 <hr>
 <h3 align="left">My proyects: </h3>
+
+|      Project :triangular_flag_on_post:   |     Description :pencil2:   | Repo :octocat:  | Link :link:  | 
+|-------------|-------------------|---|---|
+|    L'AQUA Beauty Store    | E-Commerce | <sup><kbd>***[Repo]***</kbd></sup> | <sup><kbd>***[Link](https://laquastore.com.ar/)***</kbd></sup> |
+|    VideoGames  | App to search your favorite games | <sup><kbd>***[Repo](https://github.com/gpitrella/PI-VideoGames)***</kbd></sup> | <sup><kbd>***[Link](https://deploy-videogame.vercel.app/)***</kbd></sup> |
+|    TechMarket    | E-commerce oriented to the sale of computer products. | <sup><kbd>***[Repo](https://github.com/gpitrella/PF-FrontEnd)***</kbd></sup> | <sup><kbd>***[Link](https://techmarketfront.vercel.app/)***</kbd></sup> |
+|    GP Porfolio  | Personal Profolio | <sup><kbd>***[Repo](https://github.com/gpitrella/JUNIOR)***</kbd></sup> | <sup><kbd>***[Link](https://appjunior.vercel.app/)***</kbd></sup> |
+|    Junior    | App to help junior developer to gain experience | <sup><kbd>***[Repo](https://github.com/gpitrella/Porfolio-GPitrella)***</kbd></sup> | <sup><kbd>***[Link](https://porfolio-gpitrella.vercel.app/)***</kbd></sup> |
+
 <p>
   <a href="https://www.laquastore.com.ar"><img src="https://user-images.githubusercontent.com/71048358/179837271-d28262ab-c8b3-4e26-8069-f9dca5595614.jpg" width="270px"></a>
   <a href="https://techmarketfront.vercel.app/"><img src="https://user-images.githubusercontent.com/71048358/179837382-f2bcc181-6afb-4397-8c3f-95f805693875.jpg" width="270px"></a>
@@ -65,9 +74,4 @@
 https://github.com/gpitrella/PI-VideoGames
 
 ### Projects
-|      Project :triangular_flag_on_post:   |     Description :pencil2:   | Repo :octocat:  | Link :link:  | 
-|-------------|-------------------|---|---|
-|    L'AQUA Beauty Store    | E-Commerce | <sup><kbd>***[Repo]***</kbd></sup> | <sup><kbd>***[Link](https://laquastore.com.ar/)***</kbd></sup> |
-|    VideoGames  | App to search your favorite games | <sup><kbd>***[Repo](https://github.com/gpitrella/PI-VideoGames)***</kbd></sup> | <sup><kbd>***[Link](https://deploy-videogame.vercel.app/)***</kbd></sup> |
-|    TechMarket    | E-commerce oriented to the sale of computer products. | <sup><kbd>***[Repo](https://github.com/gpitrella/PF-FrontEnd)***</kbd></sup> | <sup><kbd>***[Link](https://techmarketfront.vercel.app/)***</kbd></sup> |
-|    Junior    | App to help junior developer to gain experience | <sup><kbd>***[Repo](https://github.com/gpitrella/JUNIOR)***</kbd></sup> | <sup><kbd>***[Link](https://appjunior.vercel.app/)***</kbd></sup> |
+
