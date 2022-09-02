@@ -47,6 +47,8 @@
 <hr>
 <h3 align="left">My proyects: </h3>
 
+<p align="center" >
+    
 |      Project :triangular_flag_on_post:   |     Description :pencil2:   | Repo :octocat:  | Link :link:  | 
 |-------------|-------------------|---|---|
 |    L'AQUA Beauty Store    | E-Commerce | <sup><kbd>***[Repo]***</kbd></sup> | <sup><kbd>***[Link](https://laquastore.com.ar/)***</kbd></sup> |
@@ -55,15 +57,9 @@
 |    GP Porfolio  | Personal Profolio | <sup><kbd>***[Repo](https://github.com/gpitrella/JUNIOR)***</kbd></sup> | <sup><kbd>***[Link](https://appjunior.vercel.app/)***</kbd></sup> |
 |    Junior    | App to help junior developer to gain experience | <sup><kbd>***[Repo](https://github.com/gpitrella/Porfolio-GPitrella)***</kbd></sup> | <sup><kbd>***[Link](https://porfolio-gpitrella.vercel.app/)***</kbd></sup> |
 
-<p>
-  <a href="https://www.laquastore.com.ar"><img src="https://user-images.githubusercontent.com/71048358/179837271-d28262ab-c8b3-4e26-8069-f9dca5595614.jpg" width="270px"></a>
-  <a href="https://techmarketfront.vercel.app/"><img src="https://user-images.githubusercontent.com/71048358/179837382-f2bcc181-6afb-4397-8c3f-95f805693875.jpg" width="270px"></a>
-  <a href="https://deploy-videogame.vercel.app/"><img src="https://user-images.githubusercontent.com/71048358/179837428-f00c82e6-05c7-4f62-b14d-349be4ac8513.jpg" width="270px"></a>
-  <a href="https://porfolio-gpitrella.vercel.app/"><img src="https://user-images.githubusercontent.com/71048358/181997180-eb65235e-0de1-4f02-beee-22e7c8800be3.jpg" width="270px"></a>
-  <a href=""><img src="https://user-images.githubusercontent.com/71048358/181998386-bb022d73-8ea0-455d-bf73-c9bb2f1949aa.jpg" width="270px"></a>
-    
 </p>
 <hr>
+
 <h3 align="left">Summary GitHub:</h3>
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpitrella&show_icons=true&theme=dark&locale=en&layout=compact" alt="gpitrella" /><span margin="10px"></span>
@@ -71,7 +67,3 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpitrella&theme=dark" alt="gpitrella" />
 </div>
 </br>
-https://github.com/gpitrella/PI-VideoGames
-
-### Projects
-
