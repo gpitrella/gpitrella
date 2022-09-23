@@ -31,7 +31,7 @@
         <li>💻 JavaScript, TypeScript, React, Redux, Babel</li>
         <li>⚙️ Node.JS, Express.Js, Jest</li>
         <li>👁️ Material-UI, CSS, Sass, Bootstrap, Less, Cypress</li>
-        <li>💽 PostgreSQL, MongoDB, Postman</li>
+        <li>💽 PostgreSQL, Sequelize, MongoDB, Mongoose, Passport, Postman</li>
         <li>💬 Git, GitHub, SCRUM, Slack, Trello</li>
         <li>🪶 Deploy Vercel, Heroku</li>
         <li>📌 WordPress, Woocommerce</li>
