@@ -54,8 +54,8 @@
 |    L'AQUA Beauty Store    | E-Commerce | <sup><kbd>***[Repo](https://laquastore.com.ar/)***</kbd></sup> | <sup><kbd>***[Link](https://laquastore.com.ar/)***</kbd></sup> |
 |    VideoGames  | App to search your favorite games | <sup><kbd>***[Repo](https://github.com/gpitrella/PI-VideoGames)***</kbd></sup> | <sup><kbd>***[Link](https://deploy-videogame.vercel.app/)***</kbd></sup> |
 |    TechMarket    | E-commerce oriented to the sale of computer products. | <sup><kbd>***[Repo](https://github.com/gpitrella/PF-FrontEnd)***</kbd></sup> | <sup><kbd>***[Link](https://techmarketfront.vercel.app/)***</kbd></sup> |
-|    GP Porfolio  | Personal Profolio | <sup><kbd>***[Repo](https://github.com/gpitrella/JUNIOR)***</kbd></sup> | <sup><kbd>***[Link](https://appjunior.vercel.app/)***</kbd></sup> |
-|    Junior    | App to help junior developer to gain experience | <sup><kbd>***[Repo](https://github.com/gpitrella/Porfolio-GPitrella)***</kbd></sup> | <sup><kbd>***[Link](https://porfolio-gpitrella.vercel.app/)***</kbd></sup> |
+|    Junior  | App to help junior developer to gain experience | <sup><kbd>***[Repo](https://github.com/gpitrella/JUNIOR)***</kbd></sup> | <sup><kbd>***[Link]()***</kbd></sup> |
+|    GP Porfolio    | Personal Profolio | <sup><kbd>***[Repo](https://github.com/gpitrella/Porfolio-GPitrella)***</kbd></sup> | <sup><kbd>***[Link](https://porfolio-gpitrella.vercel.app/)***</kbd></sup> |
 
 </p>
 <hr>
