@@ -4,7 +4,7 @@
 <img src="./DevelopingSolutions.gif" alt="DevelopingSolutions" />
 <h2> Hi, I'm Gabriel 👋 </h2>
 <hr>
-<h4>Full Stack Developer graduated in Industrial Engineering. Experience working with JavaScript, NodeJS, React, React-Native, Express, Postgres, MongoDb among other technologies in the sector. Develop an E-commerce that exceeded 500 successful sales in the first three months. I worked at Toyota Argentina for more than 7 years, which strengthened my analytical thinking, effective problem solving, teamwork, communication and continuous improvement..</h4>
+<h4>Full Stack Developer graduated in Industrial Engineering. Experience working with JavaScript, TypeScript, NodeJS, React, React-Native, Express, Postgres, MongoDb among other technologies in the sector. Develop an E-commerce that exceeded 500 successful sales in the first three months. I worked at Toyota Argentina for more than 7 years, which strengthened my analytical thinking, effective problem solving, teamwork, communication and continuous improvement..</h4>
 <hr>
 <h3>Technical skills:</h3>
 <div align="center">
