@@ -44,9 +44,6 @@
     <a href="mailto:gabrielpitrella@gmail.com" ><img src="./img/contact/email.png" alt="gabrielpitrella@gmail.com" width="60px"></a>
     <a href="https://porfolio-gpitrella.vercel.app/"><img align-self="center" src="https://user-images.githubusercontent.com/71048358/181997031-4a288a08-ba8c-4b33-9f0d-bb9ca64a0042.png" alt="Porfolio Gabriel Pitrella" width="60px" /></a>
 </p>
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=kingstar0126&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
-</p>
 <hr>
 <h3 align="left">My proyects: </h3>
 
@@ -68,5 +65,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpitrella&show_icons=true&theme=dark&locale=en&layout=compact" alt="gpitrella" /><span margin="10px"></span>
     <img src="https://github-readme-stats.vercel.app/api?username=gpitrella&show_icons=true&theme=dark&hide=issues"/><span margin="10px"></span>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpitrella&theme=dark" alt="gpitrella" />
+    <p align="center">
+<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=gpitrella&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
+</p>
 </div>
 </br>
