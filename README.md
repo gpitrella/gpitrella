@@ -64,9 +64,6 @@
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpitrella&show_icons=true&theme=dark&locale=en&layout=compact" alt="gpitrella" /><span margin="10px"></span>
     <img src="https://github-readme-stats.vercel.app/api?username=gpitrella&show_icons=true&theme=dark&hide=issues"/><span margin="10px"></span>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpitrella&theme=dark" alt="gpitrella" />
-    <p align="center">
-<img width="100%" margin-top="30px" src="https://github-readme-activity-graph.cyclic.app/graph?username=gpitrella&bg_color=141321&color=f5f5f5&line=000&point=A9FEF7&hide_border=true">
-</p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpitrella&theme=dark" alt="gpitrella" />    
 </div>
 </br>
