@@ -28,7 +28,7 @@
 <div>
     <h4>🧠 Summary:</h4>
     <ul>
-        <li>💻 JavaScript, TypeScript, React, React Native, Redux, Redux Toolkit, Babel</li>
+        <li>💻 JavaScript, TypeScript, React, React Native, Redux, Redux Toolkit, Babel, HubL</li>
         <li>⚙️ Node.JS, Express.Js, Jest</li>
         <li>👁️ Material-UI, CSS, Sass, Bootstrap, Less, Cypress</li>
         <li>💽 PostgreSQL, Sequelize, MongoDB, Mongoose, Passport, Postman</li>
