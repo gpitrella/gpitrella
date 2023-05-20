@@ -61,7 +61,7 @@
 <hr>
 
 <h3 align="left">Summary GitHub:</h3>
-<div align="center" style="display:flex; flex-direction:column;">
+<div align="center" max-width="900px"style="display:flex; flex-direction:column;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpitrella&show_icons=true&theme=dark&locale=en&layout=compact" alt="gpitrella" /><span margin="10px"></span>
     <img src="https://github-readme-stats.vercel.app/api?username=gpitrella&show_icons=true&theme=dark&hide=issues"/><span margin="10px"></span>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gpitrella&theme=dark" alt="gpitrella" />    
