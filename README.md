@@ -28,10 +28,10 @@
 <div>
     <h4>🧠 Summary:</h4>
     <ul>
-        <li>💻 JavaScript including DOM manipulation and object model TypeScript, JQuery, React, React Native, Redux, Redux Toolkit, Babel, HubL, RESTful APIs</li>
+        <li>💻 JavaScript including DOM manipulation and object model TypeScript, JQuery, React, NextJs, React Native, Redux, Redux Toolkit, Babel, HubL, RESTful APIs</li>
         <li>⚙️ Node.JS, Express.Js, Jest, Expo</li>
-        <li>👁️ HTML, CSS, SASS, LESS, Bootstrap, Material-UI, Bootstrap, Less, Cypress</li>
-        <li>💽 PostgreSQL, Sequelize, MongoDB, Mongoose, Passport, Postman, Firebase, JSON Web Token, Outh</li>
+        <li>👁️ HTML, CSS, SASS, LESS, Tailwind, Bootstrap, Material-UI, Bootstrap, Less, Cypress</li>
+        <li>💽 PostgreSQL, Sequelize, MongoDB, Mongoose, Passport, Postman, Firebase, JSON Web Token, OAuth</li>
         <li>💬 Git, GitHub, SCRUM, Slack, Webpack, Trello</li>
         <li>🪶 Deploy Vercel, Heroku, fly.io</li>
         <li>📌 WordPress, Woocommerce, Jira, Scrum/Agile Methodology, Slack</li>
@@ -42,7 +42,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/gabrielpitrella/"><img align-self="center" src="./img/contact/linkedin.png" alt="https://www.linkedin.com/in/gabrielpitrella/" width="60px" /></a>
     <a href="mailto:gabrielpitrella@gmail.com" ><img src="./img/contact/email.png" alt="gabrielpitrella@gmail.com" width="60px"></a>
-    <a href="https://porfolio-gpitrella.vercel.app/"><img align-self="center" src="https://user-images.githubusercontent.com/71048358/181997031-4a288a08-ba8c-4b33-9f0d-bb9ca64a0042.png" alt="Porfolio Gabriel Pitrella" width="60px" /></a>
+    <a href="https://nextjs-porfolio-gp.vercel.app/"><img align-self="center" src="https://user-images.githubusercontent.com/71048358/181997031-4a288a08-ba8c-4b33-9f0d-bb9ca64a0042.png" alt="Porfolio Gabriel Pitrella" width="60px" /></a>
 </p>
 <hr>
 <h3 align="left">My proyects: </h3>
