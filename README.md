@@ -4,7 +4,7 @@
 <img src="./DevelopingSolutions.gif" alt="DevelopingSolutions" />
 <h2> Hi, I'm Gabriel 👋 </h2>
 <hr>
-<h3>Full Stack Engineer with over 4 years of hands-on expertise in crafting and implementing efficient solutions using diverse technologies, including JavaScript, TypeScript, NodeJS, ReactJS, NextJs, Express, PostgreSQL, MongoDB and more. My professional journey spans over 14 years as an Industrial Engineer with 7 years as an Engineer at Toyota, where I developed a strong foundation in analytical thinking, effective problem-solving, teamwork, communication, and a commitment to continuous improvement.</h3>
+<h3>Full Stack Engineer with over 4 years of hands-on expertise in crafting and implementing efficient solutions using a diverse set of technologies, including JavaScript, HuBL(HubSpot), NodeJS, ReactJS, NodeJS and more. I prioritize KISS, DRY and SOLID principles for robust and maintainable software. My professional journey spans over 14 years as an Industrial Engineer with 7 years as an Engineer at Toyota, where I developed a strong foundation in analytical thinking, effective problem-solving, teamwork, communication, and a commitment to continuous improvement.</h3>
 <hr>
 <h3>Technical skills:</h3>
 <div align="center">
